@@ -1,0 +1,14 @@
+/Users/f0x/Documents/school/c-sharp/week3Project/bin/Debug/net9.0/week3Project
+/Users/f0x/Documents/school/c-sharp/week3Project/bin/Debug/net9.0/week3Project.deps.json
+/Users/f0x/Documents/school/c-sharp/week3Project/bin/Debug/net9.0/week3Project.runtimeconfig.json
+/Users/f0x/Documents/school/c-sharp/week3Project/bin/Debug/net9.0/week3Project.dll
+/Users/f0x/Documents/school/c-sharp/week3Project/bin/Debug/net9.0/week3Project.pdb
+/Users/f0x/Documents/school/c-sharp/week3Project/obj/Debug/net9.0/week3Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/f0x/Documents/school/c-sharp/week3Project/obj/Debug/net9.0/week3Project.AssemblyInfoInputs.cache
+/Users/f0x/Documents/school/c-sharp/week3Project/obj/Debug/net9.0/week3Project.AssemblyInfo.cs
+/Users/f0x/Documents/school/c-sharp/week3Project/obj/Debug/net9.0/week3Project.csproj.CoreCompileInputs.cache
+/Users/f0x/Documents/school/c-sharp/week3Project/obj/Debug/net9.0/week3Project.dll
+/Users/f0x/Documents/school/c-sharp/week3Project/obj/Debug/net9.0/refint/week3Project.dll
+/Users/f0x/Documents/school/c-sharp/week3Project/obj/Debug/net9.0/week3Project.pdb
+/Users/f0x/Documents/school/c-sharp/week3Project/obj/Debug/net9.0/week3Project.genruntimeconfig.cache
+/Users/f0x/Documents/school/c-sharp/week3Project/obj/Debug/net9.0/ref/week3Project.dll
